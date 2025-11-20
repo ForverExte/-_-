@@ -1,4 +1,8 @@
-# 抖音直播间_不上榜协议
+# 抖音app游客采集
 
 # TG：guerbye1
-<img width="355" height="432" alt="fde5cbe7664c97bf8d298189e51f4801" src="https://github.com/user-attachments/assets/1e465cd0-ecea-433f-a675-cf2aded013ed" />
+# 无需token进行视频、用户采集，仅提供api测试
+<img width="1071" height="891" alt="image" src="https://github.com/user-attachments/assets/0dbe8e13-1090-4fdb-87cd-c60888c40776" />
+<img width="1263" height="875" alt="image" src="https://github.com/user-attachments/assets/143cc7a5-9ffa-4a9d-b97f-b38558481c97" />
+<img width="1321" height="958" alt="image" src="https://github.com/user-attachments/assets/99948d46-352d-4928-a064-0444e4e60f30" />
+
